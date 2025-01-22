@@ -1,6 +1,6 @@
 # Automatização com PyAutoGUI: Automatizando Entrada de Dados 🚀
 
-Este projeto demonstra como automatizar o processo de abrir um aplicativo web, fazer login e importar dados de um arquivo CSV para um sistema usando Python e a biblioteca PyAutoGUI. Ele é projetado para ser uma maneira simples e eficiente de economizar tempo e reduzir erros em tarefas repetitivas, como entrada de dados. 💻📊🎉
+Este projeto demonstra como automatizar o processo de abrir um aplicativo web, fazer login e importar dados de um arquivo CSV para um sistema usando Python e a biblioteca PyAutoGUI. Ele é projetado para ser uma maneira simples e eficiente de economizar tempo e reduzir erros em tarefas repetitivas, como entrada de dados. 📊
 
 ---
 
